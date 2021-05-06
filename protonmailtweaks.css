@@ -1,0 +1,6 @@
+/* Tweaks for ProtonMail v4 beta */
+
+/* Decrease Padding for navigation sidebar */
+.navigation-link, .navigation-link--groupHeader {
+    padding: .20rem 1rem .20rem 1.25rem;
+}
