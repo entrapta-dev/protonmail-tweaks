@@ -1,6 +1,9 @@
 # protonmail-tweaks
 ProtonMail Tweaks for v4 beta
 
+## What does this do?
+Adds some tweaks that fixes common annoyances such as padding issues.  
+
 ## Requirements
 A browser add-on that can alter the .css on any webpage.  
 I recommened [Stylus](https://github.com/openstyles/stylus).  
