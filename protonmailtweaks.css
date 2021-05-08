@@ -4,3 +4,8 @@
 .navigation-link, .navigation-link--groupHeader {
     padding: .20rem 1rem .20rem 1.25rem;
 }
+
+/* Remove "Empty Folder" Button */
+nav.toolbar div button.toolbar-button:last-child {
+    display: none;
+}
