@@ -1,5 +1,5 @@
 # protonmail-tweaks
-ProtonMail Tweaks for v4 beta
+ProtonMail Tweaks for v4
 
 ## What does this do?
 Adds some tweaks that fixes common annoyances such as padding issues.  
@@ -14,8 +14,8 @@ I recommened [Stylus](https://github.com/openstyles/stylus).
 
 ## Installation
 - Install [Stylus](https://github.com/openstyles/stylus)  
-- Navigate to https://beta.protonmail.com  
+- Navigate to https://mail.protonmail.com  
 - Click on the Stylus icon in your browser  
-- Underneath `Write style for` highlight `beta.protonmail.com`  
+- Underneath `Write style for` highlight `mail.protonmail.com`  
 - Paste the contents of `protontweaks.css`  
 - Save
