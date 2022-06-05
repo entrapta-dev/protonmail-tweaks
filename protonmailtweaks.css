@@ -1,13 +1,7 @@
-/* Tweaks for ProtonMail v4 */
+/* Tweaks for ProtonMail v5 */
 /* Source: https://github.com/entrapta-dev/protonmail-tweaks */
 
-/* Decrease Padding for navigation sidebar */
+/* Decrease padding between folders and tags in sidebar */
 .navigation-link, .navigation-link--groupHeader {
     padding: .20rem 1rem .20rem 1.25rem;
 }
-
-/* Remove "Empty Folder" Button 
-nav.toolbar div button.toolbar-button:last-child {
-    display: none;
-}
-^ No longer needed as the button has been moved to a dropdown menu. */
